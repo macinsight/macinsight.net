@@ -2,7 +2,7 @@ body {
     background-color: #282a36;
 }
 
-.text {
+.text h1 {
     font-family: 'Raleway', sans-serif;
     color: #6272a4;
     text-align: center;
@@ -10,5 +10,15 @@ body {
   	display: flex;
   	justify-content: center;
 	align-items: center;
+    position: relative;
+}
+
+.text p {
+    font-family: 'Raleway', sans-serif;
+    color: #6272a4;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: relative;
 }
